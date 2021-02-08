@@ -1,0 +1,64 @@
+.container {
+
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  margin: 1.875rem;
+  text-shadow: 0.3125rem 0 #232931;
+  font-size: 7rem;
+  color: #4ecca3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img1,
+img2 {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+label{
+  color: #10f11c;
+  padding-right: 1rem;
+}
+.win{
+  height: 12.5rem;
+  width: 15.625rem;
+  padding-bottom: 2rem;
+}
+.roll{
+  height: 2.5rem;
+  width: 12.5rem;
+  font-size: 100%;
+  font-weight: bold;
+  background-color: yellow;
+  color: red;
+}
+.roll-div{
+  padding-bottom: 2rem;
+}
+.top{
+  text-align: center;
+}
